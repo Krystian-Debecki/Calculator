@@ -1,0 +1,6 @@
+.main-panel {
+    display: flex;
+    flex-wrap: wrap;
+    background-color: rgb(143, 143, 141);
+    flex-grow: 1;
+}

@@ -1,0 +1,7 @@
+.calculator {
+    border: 20px;
+    width: 420px;
+    height: 540px;
+    flex-direction: column;
+    display: flex;
+}
